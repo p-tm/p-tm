@@ -1,4 +1,4 @@
-### Hello, I'm Pavel Chuev 👋
+## Hello, I'm Pavel Chuev 👋
 
 <!--
 **p-tm/p-tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 I'm looking for a position of junior Python developer
 
-# My programming skills
-- Python (PyCharm)
-- PostgreSQL
-- C++ (Embarcadero C++ Builder)
+### Programming skills
 
-- 📫 How to reach me: p.v.chuev@gmail.com
+✔ Python (PyCharm)
+✔ PostgreSQL
+✔ C++ (Embarcadero C++ Builder)
+
+- 📫 e-mail: p.v.chuev@gmail.com
