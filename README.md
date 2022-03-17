@@ -19,8 +19,8 @@ I'm looking for a position of junior Python developer
 
 ### Programming skills
 
-✔ Python (PyCharm)<\br>
-✔ PostgreSQL<\br>
-✔ C++ (Embarcadero C++ Builder)<\br>
+✔ Python (PyCharm)<br/>
+✔ PostgreSQL<br/>
+✔ C++ (Embarcadero C++ Builder)<br/>
 
 📫 e-mail: p.v.chuev@gmail.com
