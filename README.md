@@ -19,7 +19,7 @@ I'm looking for a position of junior Python developer
 
 ### Programming skills
 
-✔ Python (PyCharm)<br/>
+✔ Python (PyCharm, PyQt5)<br/>
 ✔ PostgreSQL<br/>
 ✔ C++ (Embarcadero C++ Builder)<br/>
 
