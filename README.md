@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm looking for a position of junior Python developer
+<!--I'm looking for a position of junior Python developer-->
 
 ### Programming skills
 
